@@ -1,12 +1,10 @@
 <h2 style="text-align:center;">Teashop</h2>
-<hr/>     
-
+<hr/>
 <div>
-        <div class="js-item-description item-description has-toggle">
+      <div class="js-item-description item-description has-toggle">
           <div class="user-html user-html__with-lazy-load"><p>
         Teashop –  Green Leaf Tea Shop is a modern and functional html Template best suitable for your Tea Company &amp; Online Tea Shop. Green Leaf Tea Shop has an intuitive visual interface and informative layout that looks wonderful on any platform, since it’s fully responsive. It comes with one unique layout which includes blog page, tons of sections, customization options and features for multiple purposes.It is perfect to  grow upyour bussiness!
 </p>
-
 <h3 id="item-description__features">Features:</h3>
 <ul>               
     <li>Build With Bootstrap 3.x</li>             
@@ -23,14 +21,8 @@
     <li>Well Documentation</li>
     <li>Cross browser (Chrome, Opera, Firefox, Safari, Internet Explorer, phone &amp; tablets browsers)</li> 
 </ul>
-<br/>
-
 <p>IMAGES NOT INCLUDED FOR DOWNLOAD PACKAGE</p>
-<br/>
-
 <h3 id="item-description__files-included">Files included:</h3>
-<br/>
-
 <ul>               
     <li>HTML Files</li>             
     <li>Supporting CSS, JS files</li>
